@@ -4,11 +4,11 @@ This addon provides a collection of commonly used easing functions for Godot Eng
 
 ## 📦 Installation
 
-1. Clone or download this repository into your Godot project's `addons/` folder:
+Clone or download this repository into your Godot project's `addons/` folder:
 
-   ```bash
-   git clone https://github.com/nodlag/godot-easing-functions.git
-   ```
+```bash
+git clone https://github.com/nodlag/godot-easing-functions.git
+```
 
 
 ## 📁 File Structure
