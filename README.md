@@ -7,10 +7,9 @@ This addon provides a collection of commonly used easing functions for Godot Eng
 1. Clone or download this repository into your Godot project's `addons/` folder:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/godot-easing-functions.git
+   git clone https://github.com/nodlag/godot-easing-functions.git
    ```
 
-2. (Optional) In Godot, go to **Project > Project Settings > Plugins** and enable the plugin if you’ve added a `plugin.cfg`.
 
 ## 📁 File Structure
 
@@ -22,15 +21,6 @@ This script contains a static class with multiple easing functions.
 
 ## 🚀 Usage
 
-### Load the Script
-
-You can preload the script where needed:
-
-```gdscript
-var EasingFunctions = preload("res://addons/easing_functions/easing_functions.gd")
-```
-
-Alternatively, set it as an Autoload singleton for global access.
 
 ### Example: Smooth Movement with Easing
 
